@@ -1,6 +1,2 @@
- __       ____   _                       ____                      __  
- \ \     / ___| | |__     __ _   _   _  |  _ \    ___  __   __    / /  
-  \ \   | |     | '_ \   / _` | | | | | | | | |  / _ \ \ \ / /   / /   
-  / /   | |___  | | | | | (_| | | |_| | | |_| | |  __/  \ V /    \ \   
- /_/     \____| |_| |_|  \__,_|  \__,_| |____/   \___|   \_/      \_\  
-               # THE FRIENDLY DEVEPLORER AND MANY IDEA #
+https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white
+https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
