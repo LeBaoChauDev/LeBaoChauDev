@@ -1,11 +1,4 @@
-
-#   ____   _                       ____                 
-#  / ___| | |__     __ _   _   _  |  _ \    ___  __   __
-# | |     | '_ \   / _` | | | | | | | | |  / _ \ \ \ / /
-# | |___  | | | | | (_| | | |_| | | |_| | |  __/  \ V / 
-#  \____| |_| |_|  \__,_|  \__,_| |____/   \___|   \_/  
-                                                       
-# :wave:
+# CHAUDEV :wave:
 
 ![](https://raw.githubusercontent.com/vanzasetia/vanzasetia/main/images/banner.jpg)
 
