@@ -15,13 +15,15 @@
 
 ## Tell Me a Little Bit About Yourself :sunglasses:
 
-I have been learning front-end web development for more than two years. I specialized in creating accessible websites. In the last year alone, I have completed more than 20 projects in Frontend Mentor. I also helped hundreds of people in the Frontend Mentor community by critically analyzing their code and giving them feedback.
-
-My strength is my ability to create accessible websites. I pride myself on my reputation in the community by creating responsive and accessible websites. Not only that, every time I have done creating the website, I spare my time to write `README` to explain the process of how I created the website.
+I have been learning C# and HTMLS Since i was 15 years old
+C# and Htmls is the best. i also know that C++ was also "Advanced code level" but it was hard
+I know python, Linux, VS 2022, Github...
 
 **I recommend looking through the pinned repositories which showcase my current skills.**
 
-I spend my free time playing [sudoku](https://en.wikipedia.org/wiki/Sudoku). :wink:
+I spend my free time playing 
+- [Chess](https://en.wikipedia.org/wiki/chess). :wink:
+- [Youtube](https://youtube.com/). :wink:
 
 ## Technical Skills & Tools
 - Language i Code
