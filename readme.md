@@ -1,4 +1,4 @@
-# CHAUDEV :wave:
+# >_ About my PROFILES > :moneybag:
 
 ![](https://raw.githubusercontent.com/vanzasetia/vanzasetia/main/images/banner.jpg)
 
@@ -12,11 +12,10 @@ I have been learning C# and HTMLS Since i was 15 years old
 C# and Htmls is the best. i also know that C++ was also "Advanced code level" but it was hard
 I know python, Linux, VS 2022, Github...
 
-**I recommend looking through the pinned repositories which showcase my current skills.**
-
-I spend my free time playing 
-- [Chess](https://en.wikipedia.org/wiki/chess). :wink:
-- [Youtube](https://youtube.com/). :wink:
+I spend my free time do:
+- [Chess](https://en.wikipedia.org/wiki/chess). :chess_pawn:
+- [Youtube](https://youtube.com/). :star:
+- [VMware](https://vmware.com/). :1st_place_medal:
 
 ## Technical Skills & Tools
 - Language i Code
