@@ -7,7 +7,8 @@
 </div>
 
 ## Tell Me a Little Bit About Yourself :sunglasses:
-
+I am ChauDev (Le Bao Chau)
+"A starter Deveplorer"
 
 I spend my free time do:
 - [Chess](https://chess.com/its_chaudev). :chess_pawn:
@@ -19,7 +20,7 @@ I spend my free time do:
 - [HTML|Level 1](https://developer.mozilla.org/en-US/docs/Web/html) - The building of the web. No website can survive without this.
 - [C# |Level 2](https://learn.microsoft.com/en-us/dotnet/csharp/) - The Bill Gates Favorites langauges :)
 - [My own language| Level 10](https://) - I don't wanted to share this you know?
-- [Penpot](https://www.penpot.app/) - Design tool. Yes i just a started about "Designer" it also open source 
+- [Penpot](https://www.penpot.app/) - Like Figma but open-sources Free 
 - [Sublime Text](https://www.sublimetext.com/) - A powerful text editor and lightwiegt
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editor. I love this tool. It has everything that I need to write code.
 
