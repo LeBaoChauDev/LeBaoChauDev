@@ -14,7 +14,9 @@ I spend my free time do:
 - [Chess](https://chess.com/its_chaudev). :chess_pawn:
 - [Youtube](https://youtube.com/). :star:
 - [VMware](https://vmware.com/). :1st_place_medal:
-
+## Works
+- ChauDev Software
+- Currectly: Founder, Deveplorer, Deginers
 ## Technical Skills & Tools
 - Language i Code
 - [HTML|Level 1](https://developer.mozilla.org/en-US/docs/Web/html) - The building of the web. No website can survive without this.
