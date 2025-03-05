@@ -1,28 +1,34 @@
-# >_ About my PROFILES > :moneybag:
-
+# Welcome to @LeBaoChauDev
 ![](https://raw.githubusercontent.com/vanzasetia/vanzasetia/main/images/banner.jpg)
-
-<div align="left">
-  <a href="https://twitter.com/LeBaoChauDev" target="_blank"><img src="https://img.shields.io/twitter/follow/LeBaoChauDev?logo=twitter&style=for-the-badge" alt="X" /></a> 
-</div>
-
+---
 ## Tell Me a Little Bit About Yourself :sunglasses:
 I am ChauDev (Le Bao Chau)
-"A starter Deveplorer"
+- "A starter Deveplorer"
+---
 
-I spend my free time do:
-- [Chess](https://chess.com/its_chaudev). :chess_pawn:
+---
+I spend my free time do / watch:
+- [Visual Studio](https://visualstudio.microsoft.com/) :vietnam:
 - [Youtube](https://youtube.com/). :star:
 - [VMware](https://vmware.com/). :1st_place_medal:
+---
+
 ## Works
-- ChauDev Software
-- Currectly: Founder, Deveplorer, Deginers
+.... None.
+
 ## Technical Skills & Tools
 - Language i Code
-- [HTML|Level 1](https://developer.mozilla.org/en-US/docs/Web/html) - The building of the web. No website can survive without this.
-- [C# |Level 2](https://learn.microsoft.com/en-us/dotnet/csharp/) - The Bill Gates Favorites langauges :)
-- [My own language| Level 10](https://) - I don't wanted to share this you know?
-- [Penpot](https://www.penpot.app/) - Like Figma but open-sources Free 
-- [Sublime Text](https://www.sublimetext.com/) - A powerful text editor and lightwiegt
+- [HTML | Level 1](https://developer.mozilla.org/en-US/docs/Web/html) - The building of the web. No website can survive without this.
+- [C#   | Level 2](https://learn.microsoft.com/en-us/dotnet/csharp/)  - Unity headache Coding language.
+- [CMD  | Level 3]()  - Window Command Script.
+- [C++ / QT | Level Loading](https://cplusplus.org/) - Your favourite segmentation fail core dumped.
+- Software / Tools i use.
+- [Penpot](https://www.penpot.app/) - A open source clone of Figma.
+- [Sublime Text](https://www.sublimetext.com/) - A powerful text editor and fast for Python Development
+- [Unity Hub](https://unity.com/) - A Hub for every unity's version. Vrey god (- some indian guy.) 
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editor. I love this tool. It has everything that I need to write code.
+- [Visual Studio](https://visualstudio.microsoft.com/) - Big man. I love this IDE.
+- Video Editing 
+- [DaVinci Resolve 19](https://www.blackmagicdesign.com/products/davinciresolve) - One word: Hollywood.
+- [Wondershare Filmora 9](https://filmora.wondershare.com/video-editor/) - Easy Edit for Simple Video.
 
